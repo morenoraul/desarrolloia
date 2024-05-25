@@ -4,7 +4,7 @@ TECNICATURA SUPERIOR EN INNOVACIÓN CON TECNOLOGÍAS 4.0
 
 SISTEMAS DE DESARROLLO DE INTELIGENCIA ARTIFICIAL
 
-##SEGUNDO AÑO - COLOQUIO
+## SEGUNDO AÑO - COLOQUIO
 -----------
 # Tensorflow - Optimización de modelos de deep learning con Adam para aplicaciones en la industria 4.0
 ----------
